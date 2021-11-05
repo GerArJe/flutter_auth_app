@@ -11,7 +11,11 @@ class GoogleSigninService {
   static Future<GoogleSignInAccount?> signInWithGoogle() async {
     try {
       final GoogleSignInAccount? account = await _googleSignIn.signIn();
+      final googleKey = await account?.authentication;
+
+      print('========= ID TOKEN =========');
       print(account);
+      print(googleKey?.idToken);
       return account;
     } catch (e) {
       print('Error en Google SignIn');
