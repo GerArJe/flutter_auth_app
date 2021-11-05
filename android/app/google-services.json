@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "319782720719",
+    "project_id": "flutter-singin-b1c30",
+    "storage_bucket": "flutter-singin-b1c30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319782720719:android:e49aac887e909bc18f93ba",
+        "android_client_info": {
+          "package_name": "com.germanarevalo.flutter_auth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319782720719-6if378f3fn0oh7si9d8sj1eg3h2r3al3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.germanarevalo.flutter_auth_app",
+            "certificate_hash": "81389a32732b68a730de88340d3c155be9b13348"
+          }
+        },
+        {
+          "client_id": "319782720719-mqlq4krcrb9lo9upnmesg937o7hnr90t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQj8cHKJloT65Efxb-oCnFYsdMPRkh_AY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319782720719-mqlq4krcrb9lo9upnmesg937o7hnr90t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
